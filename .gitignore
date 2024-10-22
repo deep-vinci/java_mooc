@@ -19,7 +19,6 @@
 .idea/
 *.iml
 *.iws
-.idea/
 
 # Eclipse
 .project
@@ -45,16 +44,9 @@ release.properties
 
 # Gradle specific
 .gradle/
-build/
-.gradle/
-build/
 !gradle-wrapper.jar
 
 # Java bytecode
-*.class
-*.jar
-*.war
-*.ear
 *.nar
 
 # Other specific
